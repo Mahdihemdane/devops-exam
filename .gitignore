@@ -1,0 +1,19 @@
+# SSH Keys
+*.pem
+*.pub
+chuzone-k8s
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+.gemini/
