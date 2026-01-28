@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+// DevOps POC: Triggering CI pipeline
 import { v4 as uuidv4 } from 'uuid';
 import 'materialize-css/dist/css/materialize.min.css';
 import './App.css';
